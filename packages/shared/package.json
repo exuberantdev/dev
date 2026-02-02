@@ -1,0 +1,10 @@
+{
+  "name": "@starkow.dev/shared",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./utils": "./src/utils/index.ts"
+  }
+}
