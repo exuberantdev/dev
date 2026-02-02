@@ -1,0 +1,8 @@
+{
+  "name": "starkow.dev-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
